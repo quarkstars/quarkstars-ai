@@ -2,6 +2,7 @@
 import { Prisma } from '@prisma/client';
 import Image from 'next/image'
 
+
 export default function Home() {
   async function saveContact(contact: any) {
       const response = await fetch('/contacts/api', {
