@@ -17,7 +17,6 @@
     "daisyui": "^3.0.4",
     "eslint": "8.42.0",
     "eslint-config-next": "13.4.4",
-    "install": "^0.13.0",
     "next": "13.4.4",
     "npm": "^9.6.7",
     "postcss": "8.4.24",
