@@ -15,7 +15,7 @@ export default function Home() {
         console.error( new Error(response.statusText));
       }
       const result =  await response.json();
-      console.log("RETURNED", result)
+      console.log("RETURNED!", result)
       return result;
   }
   
